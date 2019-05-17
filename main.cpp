@@ -68,9 +68,6 @@ return mmb;
 };
 
 
-
-
-
 int main(){
 int memorysize=2000;
 int pagesize=0;
